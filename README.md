@@ -37,7 +37,7 @@ Il controller è implementato nell'omonima classe `Controller` ed ha il compito 
 Di seguito è riportato uno screenshot della finestra dell'applicazione in funzione, insieme alle principali feature implementate. Altre immagini sono consultabili [qui](https://github.com/CosimoGiani/Image_EXIF_viewer/tree/main/screenshots).
 
 <div align="center">
-    <img src="https://github.com/CosimoGiani/Image_EXIF_viewer/blob/main/screenshots/screenshot_exif.png">
+    <img src="https://github.com/CosimoGiani/Image_EXIF_viewer/blob/main/screenshots/EXIFviewer.gif">
   </div>
 
 #### Aggiungere immagini dal proprio computer
